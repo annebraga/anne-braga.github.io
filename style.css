@@ -1,0 +1,21 @@
+section{
+    color:rgb(3, 3, 3);
+    background-color:rgb(red, green, blue);
+    margin: 1em;
+}
+body{
+    background-color: rgb(255, 160, 255);
+    color:rgb(2, 0, 124);
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+.envelope{
+    width: 600px;
+    margin: auto;
+}
+.envelope{
+    display flex;
+    flex-direction row;
+}
+
